@@ -1,0 +1,1 @@
+MODULE aormJAP ['jlibc.js'];CONST const1* = 10;      const2* = 20; str0* = 'aormJAP';PROCEDURE mbox*(ptxt : ADDRESS);END aormJAP.
