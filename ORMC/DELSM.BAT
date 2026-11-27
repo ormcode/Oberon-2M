@@ -1,0 +1,1 @@
+del BEXM\ORM\*.SYM
